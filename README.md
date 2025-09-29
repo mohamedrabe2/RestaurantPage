@@ -22,3 +22,35 @@ The project has three main sections: **Home**, **Menu**, and **Contact**.
 - 📞 **Contact Page** – contact information and form.  
 - 🎨 Responsive and clean UI.
   
+## 📂 Project Structure
+restaurant-page/
+│── dist/ # Production files
+│── src/ # Source files
+│ ├── index.js # Main entry file
+│ ├── home.js # Home section
+│ ├── menu.js # Menu section
+│ ├── contact.js # Contact section
+│── package.json # Dependencies and scripts
+│── webpack.config.js
+│── .gitignore
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/restaurant-page.git
+
+📚 Technologies Used
+
+JavaScript (ES6 Modules)
+
+HTML5 & CSS3
+
+Webpack
+
+🙌 Acknowledgements
+
+This project was created as part of learning Webpack and modern JavaScript development.
