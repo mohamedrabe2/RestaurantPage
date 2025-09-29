@@ -10,11 +10,6 @@ The project has three main sections: **Home**, **Menu**, and **Contact**.
 
 ---
 
-## 📸 Preview
-(Add a screenshot of your project here if you like)
-
----
-
 ## 🛠️ Features
 - ⚡ Built with **Webpack** for module bundling.  
 - 🏠 **Home Page** – introduction and welcome section.  
