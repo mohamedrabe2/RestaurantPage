@@ -14,8 +14,9 @@ The project has three main sections: **Home**, **Menu**, and **Contact**.
 - ⚡ Built with **Webpack** for module bundling.  
 - 🏠 **Home Page** – introduction and welcome section.  
 - 📖 **Menu Page** – displays the restaurant’s menu items.  
-- 📞 **Contact Page** – contact information and form.  
+- 📞 **Contact Page** – contact information . 
 - 🎨 Responsive and clean UI.
+
   
 ## 📂 Project Structure
 restaurant-page/
