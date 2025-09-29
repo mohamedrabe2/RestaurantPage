@@ -19,19 +19,17 @@ The project has three main sections: **Home**, **Menu**, and **Contact**.
 
   
 ## 📂 Project Structure
-restaurant-page/
-│── dist/ # Production files
-│── src/ # Source files
-│ ├── index.js # Main entry file
-│ ├── home.js # Home section
-│ ├── menu.js # Menu section
-│ ├── contact.js # Contact section
-│── package.json # Dependencies and scripts
-│── webpack.config.js
-│── .gitignore
-│── README.md
 
-
+- **dist/** → Production build files  
+- **src/** → Source code  
+  - `index.js` → Main entry file  
+  - `home.js` → Home section  
+  - `menu.js` → Menu section  
+  - `contact.js` → Contact section  
+- **package.json** → Project dependencies & scripts  
+- **webpack.config.js** → Webpack configuration  
+- **.gitignore** → Git ignored files  
+- **README.md** → Project documentation  
 ---
 
 ## ⚙️ Installation & Setup
