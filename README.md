@@ -6,7 +6,7 @@ The project has three main sections: **Home**, **Menu**, and **Contact**.
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://your-deployed-link.netlify.app/)  
+👉 [Live Demo](https://mohamedrabe2.github.io/RestaurantPage/)  
 
 ---
 
